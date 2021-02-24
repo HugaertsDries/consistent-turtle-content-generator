@@ -1,0 +1,6 @@
+/.idea
+/processed/
+/files/
+/node_modules
+
+package-lock.json
