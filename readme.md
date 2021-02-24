@@ -3,7 +3,7 @@
 Crudely put together tool to generate consistent content within turtle-file to check for diff.
 
 ## How to run
-> **NOTE**: make sure you have run `npm install` before using. 
+> **NOTE**: make sure to run `npm install` before first usage. 
 
 1) Drop the files you want to process in `./files`
 
