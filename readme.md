@@ -3,7 +3,11 @@
 Crudely put together tool to generate consistent content within turtle-file to check for diff.
 
 ## How to run
-> **NOTE**: make sure you have run `npm install` before using.
+> **NOTE**: make sure you have run `npm install` before using. 
+
+1) Drop the files you want to process in `./files`
+
+2) Run the tool:
 ```shell
 node -r esm index.js 
 ```
